@@ -2,7 +2,7 @@
 
 This repository accompanies the talk I gave at [Scalabase](https://www.scalabaseconf.com/) on 14 May 2021.
 
-[Watch the conference talks here](https://vimeo.com/547654644/57a3ab2e82) (my talk is introduced around 2h 37). <!-- TODO: Youtube? -->
+[Watch the talk on YouTube](https://www.youtube.com/watch?v=EdqPcK5X_Vc)
 
 ## Running the code
 
